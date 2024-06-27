@@ -3,7 +3,7 @@ Priyal Kumar's Portfolio
 
 Welcome to my portfolio! I’m Priyal Kumar, and I’m thrilled to share my work and passion with you. This website is a glimpse into my journey, showcasing my projects, skills, and experiences.
 
-You can visit my portfolio website here: Priyal Kumar's Portfolio
+You can visit my portfolio website here: [Priyal Kumar's Portfolio](https://priyalkumar01.github.io/priyalkumar.github.io/)
 
 About Me : 
 -------------
@@ -29,7 +29,7 @@ Collaboration and Communication: Working on this project as part of my internshi
 
 Contact : 
 -----------
-I’d love to hear from you! Feel free to reach out to me at priyalkumar06@gmail.com or connect with me on LinkedIn.
+I’d love to hear from you! Feel free to reach out to me at priyalkumar06@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/priyal-kumar-29b26529a/)
 
 Thank you for visiting my portfolio. I hope you enjoy exploring my work as much as I enjoyed creating it.
 
