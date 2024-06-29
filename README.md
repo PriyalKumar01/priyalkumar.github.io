@@ -8,7 +8,7 @@
 
 Overview Of project: 
 ----------------------------
-__Priyal Kumar's Portfolio__ 
+__Task 1 : Priyal Kumar's Portfolio__ 
 
 Welcome to my portfolio! I’m Priyal Kumar, and I’m thrilled to share my work and passion with you. This website is a glimpse into my journey, showcasing my projects, skills, and experiences.
 
