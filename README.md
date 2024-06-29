@@ -1,5 +1,14 @@
-Priyal Kumar's Portfolio 
----------------------------
+* __Name:__ Priyal Kumar  
+* __Company:__ CodTech It solutions  
+* __I'd:__ CT4FWD2732  
+* __Domain:__ Frontend Web Development  
+* __Duration:__ June to July 2024  
+* __Mentor:__ Mr. Muzammil Ahmed
+
+
+Overview Of project: 
+----------------------------
+__Priyal Kumar's Portfolio__ 
 
 Welcome to my portfolio! I’m Priyal Kumar, and I’m thrilled to share my work and passion with you. This website is a glimpse into my journey, showcasing my projects, skills, and experiences.
 
