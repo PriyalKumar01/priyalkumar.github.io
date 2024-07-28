@@ -1,9 +1,11 @@
+WD Task-2 : Portfolio  
+------------------------------
+
 * __Name:__ Priyal Kumar  
-* __Company:__ CodTech It solutions  
-* __I'd:__ CT4FWD2732  
-* __Domain:__ Frontend Web Development  
-* __Duration:__ June to July 2024  
-* __Mentor:__ Mr. Muzammil Ahmed
+* __I'd:__ CS11WX306404  
+* __Domain:__ Web Development  
+* __Company:__ CodSoft 
+* __Duration:__ 4 week ( 1st July,2024 - 31 July,2024 )  
 
 
 Overview Of project: 
